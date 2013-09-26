@@ -802,6 +802,7 @@ This file is intended to be loaded by Logisim (http://www.cburch.com/logisim/).
       <a name="facing" val="west"/>
       <a name="output" val="true"/>
       <a name="tristate" val="false"/>
+      <a name="label" val="R3"/>
       <a name="labelloc" val="east"/>
     </comp>
     <comp lib="0" loc="(130,260)" name="Pin">
@@ -812,6 +813,7 @@ This file is intended to be loaded by Logisim (http://www.cburch.com/logisim/).
       <a name="facing" val="west"/>
       <a name="output" val="true"/>
       <a name="tristate" val="false"/>
+      <a name="label" val="R2"/>
       <a name="labelloc" val="east"/>
     </comp>
     <comp lib="0" loc="(130,210)" name="Pin">
@@ -822,6 +824,7 @@ This file is intended to be loaded by Logisim (http://www.cburch.com/logisim/).
       <a name="facing" val="west"/>
       <a name="output" val="true"/>
       <a name="tristate" val="false"/>
+      <a name="label" val="R0"/>
       <a name="labelloc" val="east"/>
     </comp>
     <comp lib="1" loc="(700,440)" name="XOR Gate">
@@ -837,6 +840,7 @@ This file is intended to be loaded by Logisim (http://www.cburch.com/logisim/).
       <a name="facing" val="west"/>
       <a name="output" val="true"/>
       <a name="tristate" val="false"/>
+      <a name="label" val="R1"/>
       <a name="labelloc" val="east"/>
     </comp>
     <comp lib="1" loc="(360,260)" name="AND Gate">
